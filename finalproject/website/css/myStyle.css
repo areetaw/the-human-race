@@ -1,0 +1,52 @@
+.names {
+    font-size: 20px;
+    color: white;
+}
+
+.bio {
+    font-size: 15px;
+    color: white;
+    font-family: "Lato", sans-serif
+}
+
+.creator {
+    font-size: 35px;
+    color: white;
+    font-style: bold;
+    text-align: center;
+}
+
+.rhaesname {
+    font-size: 20px;
+    text-align: center;
+}
+
+.rhaesbio {
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.bioss {
+    font-size: 15px;
+    color: white;
+    font-family: "Lato", sans-serif
+}
+
+.title {
+    color:white;
+}
+
+.spacing {
+    color:white;
+    font-size: 40px;
+}
+
+.ournames {
+    font-size: 20px;
+}
+
+.brandon {
+    color:white;
+    font-size: 15px;
+}
